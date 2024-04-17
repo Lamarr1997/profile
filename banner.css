@@ -1,0 +1,15 @@
+.banner {
+ /* border: 10px solid red; */
+ height: 500px;
+ background-image: url("https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW40ejQ5cXQwZ3hiMnhycXIwbmJ3cDFldGtwdHlrbjQxdTBmMHp4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sJvz8Qnfly3BOuotGx/giphy.gif");
+ background-size: cover;
+}
+
+.card {
+  color: white;
+  background-image: url("https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW40ejQ5cXQwZ3hiMnhycXIwbmJ3cDFldGtwdHlrbjQxdTBmMHp4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sJvz8Qnfly3BOuotGx/giphy.gif");
+}
+
+.icon-button {
+  font-size: 50px;
+}
